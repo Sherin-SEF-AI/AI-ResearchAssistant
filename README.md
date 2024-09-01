@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Sherin - [Your Email]
+Sherin - sherin.joseph2217@gmail.com
 
 Project Link: [https://github.com/Sherin-SEF-AI/AI-ResearchAssistant](https://github.com/Sherin-SEF-AI/AI-ResearchAssistant)
 
